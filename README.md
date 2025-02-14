@@ -1,3 +1,3 @@
 # rishu-demo
-This is my first GIT Repository
-Author-Rishu Raj
+This is my first GIT Repository.
+Author-Rishu Raj.
